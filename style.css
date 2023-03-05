@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  color: blue;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
